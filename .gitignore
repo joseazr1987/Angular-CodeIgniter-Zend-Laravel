@@ -41,3 +41,8 @@ application/logs/*
 Icon?
 ehthumbs.db
 Thumbs.db
+
+
+# Exclude files or folders #
+############################
+!schema/schema_db.sql
