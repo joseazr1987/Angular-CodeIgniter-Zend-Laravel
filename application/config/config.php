@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url'] = 'http://localhost/CodeIgniter/ci2';
+$config['base_url'] = 'http://codeigniterangular.dev';
 
 /*
 |--------------------------------------------------------------------------
