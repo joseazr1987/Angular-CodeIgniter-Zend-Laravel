@@ -1,0 +1,18 @@
+{
+  "name": "kendo-ui",
+  "version": "2013.3.1119",
+  "dependencies": {
+    "jquery": ">=1.8.2 <=1.9.1"
+  },
+  "homepage": "https://github.com/kendo-labs/bower-kendo-ui",
+  "_release": "2013.3.1119",
+  "_resolution": {
+    "type": "version",
+    "tag": "2013.3.1119",
+    "commit": "bddff4a3c7ed5d3f18f51e78216bd50da4faad72"
+  },
+  "_source": "git://github.com/kendo-labs/bower-kendo-ui.git",
+  "_target": "~2013.3.1119",
+  "_originalSource": "kendo-ui",
+  "_direct": true
+}

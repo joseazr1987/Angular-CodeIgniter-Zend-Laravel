@@ -1,0 +1,13 @@
+{
+  "name" : "comp-codeigniter",
+  "version": 0.1,
+  "dependencies": {
+    "angular": null,
+    "jquery" : null,
+    "angular-bootstrap" : null,
+    "angular-kendo-ui" : null,
+    "bootstrap-css" : null,
+    "nprogress": null,
+    "messenger": null
+  }
+}
